@@ -1,0 +1,10 @@
+
+SupaColdProjects/\.idea/
+
+SupaColdProjects/packages/
+
+SupaColdProjects/SupaColdProjects/bin/
+
+SupaColdProjects/SupaColdProjects/obj/
+
+*.user
